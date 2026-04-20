@@ -5,8 +5,6 @@
 
 ![banner](https://github.com/Trendyol/.github/blob/main/profile/banner.png)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://www.linkedin.com/in/HOROZIT" target="blank"></a>
 </p>
 
